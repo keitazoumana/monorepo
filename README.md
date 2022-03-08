@@ -68,4 +68,5 @@ To see the code for our website, see the `trymito.io` folder.
 
 ## Docs
 
-Our docs are hosted on Gitbooks [here](https://docs.trymito.io). You can see and edit the docs in the `/docs` folder, PRs greatly appreciated!
+Our docs are hosted on Gitbooks [here](https://docs.trymito.io). You can see and edit the docs in the `/docs` folder, PRs greatly appreciated!  
+An introduction article to Mito is hosted on Towards Data Science [here](https://towardsdatascience.com/introduction-to-mito-spreadsheet-for-data-scientists-that-also-generates-python-codes-642b4c2d7dfc)
